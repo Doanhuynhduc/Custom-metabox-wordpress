@@ -1,0 +1,22 @@
+.real_detail {
+    font-size: 100%;
+}
+
+.real_detail p {
+    margin-bottom: 0.5em;
+}
+
+.kdbs-gia {
+    color: #d60000;
+    font-weight: bold;
+}
+
+.kdbs-trang-thai {
+    color: #2E5BC6;
+}
+.kdbs-trang-thai ,.kdbs-gia , .kdbs-diachi {
+    font-size: 14px;
+}
+.title{
+    padding: 5px 0px 5px 0px;
+}
